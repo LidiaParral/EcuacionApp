@@ -3,7 +3,7 @@
 [LidiaParral en github](https://github.com/LidiaParral)
 
 
-Main |
+Main 
 -----
 ![](img/Imagen.png)
 
