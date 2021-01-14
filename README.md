@@ -3,7 +3,7 @@
 [LidiaParral en github](https://github.com/LidiaParral)
 
 
-Main 
+Pantalla Inicial
 -----
 ![](img/Imagen.png)
 
